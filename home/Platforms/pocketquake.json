@@ -1,8 +1,8 @@
 {
   "platform": {
-    "category": "Others",
-    "manufacturer": "id Software / ThinkElastic",
+    "category": "Computer",
+    "manufacturer": "id Software",
     "year": 1996,
-    "name": "Quake (RISC-V)"
+    "name": "Quake (Risc-V)"
   }
 }
