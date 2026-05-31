@@ -225,7 +225,7 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>McPixel 3 <img src="pics/mcpixel3.png" /></td>
 </tr>
 <tr>
- <td>Wolfenstein 3D <img src="pics/pocketwolf.png" /></td>
+ <td>Wolfenstein 3D <img src="pics/wolfenstein.png" /></td>
  <td>Hexen <img src="pics/hexen.png" /></td>
  <td>Rise of the Triad <img src="pics/triad.png" /></td>
 </tr>
