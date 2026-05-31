@@ -222,17 +222,21 @@ All artwork used is meant to resemble the game's official key artwork from the t
 <tr><th colspan="3"> Data East Arcade Games</th></tr>
 <tr>
  <td>Bad Dudes v. Dragon Ninja (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtninja.png" /></td>
+ <td>Edward Randy (By Coin-Op) <img src="/pics/arcade/edrandy.png" /></td>
  <td>Karnov (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtkarnov.png" /></td> 
- <td>Midnight Resistance (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmidres.png" /></td>
 </tr>
 <tr>
+ <td>Midnight Resistance (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtmidres.png" /></td>
  <td>Performan (by <a href="https://github.com/antongale">Anton Gale</a>) <img src="/pics/arcade/performan.png" /></td>
  <td>Psychic-Nics Oscar (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/oscar.png" /></td>
- <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcop.png" /></td>
 </tr>
 <tr>
+ <td>Robocop (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtcop.png" /></td>
  <td>Sly Spy (by <a href="https://patreon.com/jotego">Jotego</a>) <img src="/pics/arcade/jtslyspy.png" /></td>
  <td>Tumblepop (by <a href="https://github.com/Coin-OpCollection/Distribution-OpenFPGA">Coin-Op</a>) <img src="/pics/arcade/tumblep.png" /></td>
+</tr>
+<tr>
+ <td>Vapor Trail (by Coin-Op) <img src="/pics/arcade/vaportra.png" /></td>
 </tr>
 <tr><th colspan="3">SNK Arcade Games</th></tr>
 <tr>
