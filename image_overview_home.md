@@ -101,6 +101,9 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>Doom (pocketdoom & doom)<img src="/pics/home/doom.png" /></td>
  <td>Tyrian on Risc-V<img src="/pics/home/tyrian.png" /></td>
 </tr>
+<tr>
+ <td>Duke Nukem 3D <img src="/pics/home/duke3d.png" /></td>
+</tr>
 <tr><th colspan="3">Utility Cores</th></tr>
 <tr>
  <td>Camera <img src="/pics/home/camera.png" /></td>

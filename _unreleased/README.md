@@ -223,7 +223,7 @@ These are platform overrides for cores that haven't been released yet. These cor
 </tr>
 <tr><th colspan="3">Risc-V Conversions</th></tr>
 <tr>
- <td>Duke Nukem 3D <img src="pics/duke3d.png" /></td>
+ <td></td>
  <td>Cave Story <img src="pics/cavestory.png" /></td>
  <td>McPixel 3 <img src="pics/mcpixel3.png" /></td>
 </tr>
