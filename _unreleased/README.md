@@ -221,17 +221,20 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr><th colspan="3">Risc-V Conversions</th></tr>
 <tr>
  <td>Diablo <img src="pics/diablo.png" /></td>
- <td>Cave Story <img src="pics/cavestory.png" /></td>
- <td>McPixel 3 <img src="pics/mcpixel3.png" /></td>
+ <td>Wolfenstein 3D <img src="pics/wolfenstein.png" /></td>
+ <td>Scumm VM <img src="pics/scummvm.png" /></td>
 </tr>
 <tr>
- <td>Wolfenstein 3D <img src="pics/wolfenstein.png" /></td>
+ <td>Cave Story <img src="pics/cavestory.png" /></td>
+ <td>McPixel 3 <img src="pics/mcpixel3.png" /></td>
  <td>Hexen <img src="pics/hexen.png" /></td>
- <td>Rise of the Triad <img src="pics/triad.png" /></td>
 </tr>
 <tr>
  <td>Warcraft <img src="pics/warcraft.png" /></td>
  <td>Warcraft II <img src="pics/warcraft2.png" /></td>
  <td>Starcraft <img src="pics/starcraft.png" /></td>
+</tr>
+<tr>
+ <td>Rise of the Triad <img src="pics/triad.png" /></td>
 </tr>
 </table>
