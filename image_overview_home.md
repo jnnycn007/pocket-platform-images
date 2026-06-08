@@ -85,6 +85,16 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>Varvara / UXN <img src="/pics/home/varvara.png" /></td>
  <td>linux - RV32 Linux 6.8 <img src="/pics/home/linux.png" /></td>
 </tr>
+<tr><th colspan="3">PC Game Conversions</th></tr>
+<tr>
+ <td>Quake (pocketquake & quake)<img src="/pics/home/quake.png" /></td>
+ <td>Doom (pocketdoom & doom)<img src="/pics/home/doom.png" /></td>
+ <td>Wolfenstein <img src="/pics/home/wolfenstein.png" /></td>
+</tr>
+<tr>
+ <td>Duke Nukem 3D <img src="/pics/home/duke3d.png" /></td>
+ <td>Tyrian on Risc-V<img src="/pics/home/tyrian.png" /></td>
+</tr>
 <tr><th colspan="3">Single Game / Application Cores</th></tr>
 <tr>
  <td>mcc_cellular1 - Cellular Toy <img src="/pics/home/mcc_cellular1.png" /></td>
@@ -95,14 +105,6 @@ You can view those differences here: <b><a href="/image_regional_variants.md">Re
  <td>mcc_minibreak - Minibreak <img src="/pics/home/mcc_minibreak.png" /></td>
  <td>flappybird - Flappy Bird <img src="/pics/home/flappybird.png" /></td>
  <td>life - Conway's Game of Life <img src="/pics/home/life.png" /></td>
-</tr>
-<tr>
- <td>Quake (pocketquake & quake)<img src="/pics/home/quake.png" /></td>
- <td>Doom (pocketdoom & doom)<img src="/pics/home/doom.png" /></td>
- <td>Tyrian on Risc-V<img src="/pics/home/tyrian.png" /></td>
-</tr>
-<tr>
- <td>Duke Nukem 3D <img src="/pics/home/duke3d.png" /></td>
 </tr>
 <tr><th colspan="3">Utility Cores</th></tr>
 <tr>

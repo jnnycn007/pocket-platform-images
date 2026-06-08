@@ -222,7 +222,6 @@ These are platform overrides for cores that haven't been released yet. These cor
 <tr>
  <td>Wipeout Rewrite <img src="pics/wipeout.png" /></td>
  <td>Diablo <img src="pics/diablo.png" /></td>
- <td>Wolfenstein 3D <img src="pics/wolfenstein.png" /></td>
  <td>Scumm VM <img src="pics/scummvm.png" /></td>
 </tr>
 <tr>
