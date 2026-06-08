@@ -218,8 +218,9 @@ These are platform overrides for cores that haven't been released yet. These cor
  <td>MP3 Player <img src="pics/mp3.png" /></td>
  <td>Rom Dumper <img src="pics/rom_dumper.png" /></td>
 </tr>
-<tr><th colspan="3">Risc-V Conversions</th></tr>
+<tr><th colspan="3">PC Conversions</th></tr>
 <tr>
+ <td>Wipeout Rewrite <img src="pics/wipeout.png" /></td>
  <td>Diablo <img src="pics/diablo.png" /></td>
  <td>Wolfenstein 3D <img src="pics/wolfenstein.png" /></td>
  <td>Scumm VM <img src="pics/scummvm.png" /></td>
